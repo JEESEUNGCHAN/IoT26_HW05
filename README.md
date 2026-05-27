@@ -1,4 +1,4 @@
-# IoT26_HW06
+# IoT26_HW05
 
 Additional images are available in images/orig.
 
