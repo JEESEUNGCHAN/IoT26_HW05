@@ -9,8 +9,9 @@ Additional images are available in images/orig.
 ![hw05_dashboard](images/hw05_dashboard.png)
 ![hw05_editor](images/hw05_editor.png)
 ----
-
-RPi5에서 IO 컨트롤러의 변경으로 더이상 기존 Integration을 사용할 수 없게 되어, 부득이하게 HACS를 통한 Custom Integration을 사용하였습니다.
+![HW5오류](images/orig/HW5오류.png)
+튜토리얼 페이지를 따라 진행하는 경우, 사진과 같은 오류가 발생하여 진행이 불가하였습니다.
+RPi5에서 IO 컨트롤러의 변경으로 더이상 기존 Integration을 사용할 수 없다는 것을 확인하였고, 대신 HACS를 통한 Custom Integration을 사용하였습니다.
 
 수행 과정
 1. Custom Integration 설치를 위해 먼저 HACS를 설치합니다. 자세한 설치 방법은 세한 설치 방법은 [여기](https://hacs.xyz/docs/use/)서 확인하실 수 있습니다.
